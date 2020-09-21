@@ -8,19 +8,19 @@ Assignments will be visible in Brightspace *Assessment -> Assignments*. The assi
 ## Downloading the Repository
 For those of you familiar with Git, you can download the repository using the standard command-line tools. However, you may find it easier and a little more intuitive to use the GitHub desktop client to manage your repositories. You can download the latest GitHub desktop client from [https://desktop.github.com](https://desktop.github.com). To copy the files from your repository to your computer open the desktop client, sign in to your GitHub account and go to *File* -> *Clone Repository*, choose your repository from the list and click *Clone*. Once the repository is open in your desktop client you can choose to Open in File Explorer / Finder to open the folder on your computer.
 
-![Cloning your Repository through GitHub Desktop](Clone Repository.png)
+![Cloning your Repository through GitHub Desktop](./CloneRepository.png)
 ## Working on the Assignment
 As you make changes to the assignment files they will be tracked by GitHub. When you're finished, open the Desktop Client, and ensure all of the files in the left-hand pane are checked, then add a description to the Summary (something like **Submission** is fine). Click on the *Commit to Master* button to finalise your changes.
 
-![Checking in your changes with GitHub Desktop](GitHub Desktop.png)
+![Checking in your changes with GitHub Desktop](./GitHubDesktop.png)
 
 ## Marking the Assignment Complete
 GitHub classroom uses *releases* to mark assignments complete. In order to create a release you will need to open the repository **in your web browser** (this functionality is not available from the desktop client). From the repository home page navigate to *releases*.
-![Releases menu item on the right-hand side of the screen](Accessing Releases Menu.png)
+![Releases menu item on the right-hand side of the screen](./AccessingReleasesMenu.png)
 
 From the Releases page you will need to set a few configuration options. First, give the release a version number (we'll follow industry standard and use *1.0* to indicate a finished product) see **1.** below.
 
-![Set a version number, add a summary and attach files in the releases menu](Building a Release.png)
+![Set a version number, add a summary and attach files in the releases menu](./BuildingARelease.png)
 
 Next, give the release a description (**2.**) The word *submission* will suffice. Finally, add any file outputs to the release by dragging them into the *attach binaries* dropzone (**3.**). Finally, click on Publish Release 
 to complete the submission
